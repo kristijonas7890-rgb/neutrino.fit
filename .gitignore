@@ -1,0 +1,16 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Node modules (in case you use npm in the future)
+node_modules/
+
+# Environment variables
+.env
+
+# Backup or temp files
+*.bak
+*.swp
